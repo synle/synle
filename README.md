@@ -3,6 +3,10 @@
 #### 💬 About Me
 I am **Sy Le**. I've been working as a software engineer for 10+ years. Throughout my career, I had built solutions for CRM, Marketing Automation, e-commerce and monitoring platform. My specialty is JavaScript / React on the front end and Node JS / Express on the backend. But I believe in continuous learning and willing to learn anything to get the job done.
 
+#### Education
+- **MS in Software Engineer** (graduated 2019) at [San Jose State University](https://www.sjsu.edu/)
+- **BS in Computer Science** (graduated 2011) at [San Jose State University](https://www.sjsu.edu/)
+
 #### 📫 How to reach me?
 - [Resume](https://synle.github.io/)
 - [Linkedin](https://www.linkedin.com/in/syle1021/)
