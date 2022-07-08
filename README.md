@@ -13,9 +13,9 @@ I am **Sy Le**. I've been working as a software engineer for 10+ years. Througho
 - [✉️ Email](mailto:le.nguyen.sy@gmail.com)
 
 #### 🔭 I’m currently working on
-- [display-dj](https://github.com/synle/display-dj)
 - [sqlui-native](https://github.com/synle/sqlui-native)
 - [js-import-fixer](https://github.com/synle/js-import-fixer)
+- [display-dj](https://github.com/synle/display-dj)
 
 <!--
 **synle/synle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
