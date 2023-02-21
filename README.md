@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 💬 About Me
-I am **Sy Le**. I've been working as a software engineer for 10+ years. Throughout my career, I had built solutions for CRM, Marketing Automation, e-commerce and monitoring platform. My specialty is JavaScript / React on the front end and Node JS / Express on the backend. But I believe in continuous learning and willing to learn anything to get the job done.
+I am **Sy Le**, a seasoned software engineer with over a decade of experience, I've honed my skills in developing cutting-edge web applications at renowned companies such as Linkedin, Salesforce, and Yahoo. My expertise spans a diverse range of domains, including CRM, marketing automation, e-commerce, and monitoring platforms. I have a strong command of both JavaScript and React on the front end, as well as Node JS and Express on the backend.
 
 #### Education
 - **MS in Software Engineer** (2019) at [San Jose State University](https://www.sjsu.edu/)
