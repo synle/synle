@@ -13,7 +13,7 @@ Seeking front-end or full-stack roles, preferably remote or hybrid in the South 
 #### How to reach me?
 - [Resume](https://synle.github.io/)
 - [Linkedin](https://www.linkedin.com/in/syle1021/)
-- [✉️ Email](mailto:le.nguyen.sy@gmail.com)
+- [Email](mailto:le.nguyen.sy@gmail.com)
 
 #### Current open-source
 - [react-dialog-mui](https://github.com/synle/react-dialog-mui)
