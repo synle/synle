@@ -5,7 +5,7 @@ I'm **Sy Le**, a software engineer with a decade of experience at LinkedIn, Sale
 
 Seeking full-stack or front-end roles, preferably remote or hybrid in the South Bay Area or Austin. Proficient in Typescript, Node.js, Python, and Java.
 
-#### How to reach me?
+#### Contact me
 - [Resume](https://synle.github.io)
 - [Linkedin](https://www.linkedin.com/in/syle1021)
 - [Email](mailto:le.nguyen.sy@gmail.com)
