@@ -11,8 +11,8 @@ Seeking front-end or full-stack roles, preferably remote or hybrid in the South 
 - **BS in Computer Science** (graduated 2011) at [San Jose State University](https://www.sjsu.edu)
 
 #### How to reach me?
-- [Resume](https://synle.github.io/)
-- [Linkedin](https://www.linkedin.com/in/syle1021/)
+- [Resume](https://synle.github.io)
+- [Linkedin](https://www.linkedin.com/in/syle1021)
 - [Email](mailto:le.nguyen.sy@gmail.com)
 
 #### Current open-source
@@ -22,4 +22,4 @@ Seeking front-end or full-stack roles, preferably remote or hybrid in the South 
 - [sqlui-native](https://github.com/synle/sqlui-native)
 - [display-dj](https://github.com/synle/display-dj)
 - [js-import-fixer](https://github.com/synle/js-import-fixer)
-- [restapi-typescript-decorators](https://synle.github.io/restapi-typescript-decorators/)
+- [restapi-typescript-decorators](https://synle.github.io/restapi-typescript-decorators)
