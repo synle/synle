@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 💬 About Me
-I'm **Sy Le**, a software engineer with a decade of experience at LinkedIn, Salesforce, and Yahoo, having worked on cloud software in CRM, marketing automation, e-commerce, and monitoring platforms.
+I'm **Sy Le**, a software engineer with a decade of experience at LinkedIn, Salesforce, and Yahoo, having worked on cloud software for CRM, marketing automation, e-commerce, and monitoring platforms.
 
 Seeking full-stack or front-end roles, preferably remote or hybrid in the South Bay Area or Austin. Proficient in Typescript, Node.js, Python, and Java.
 
