@@ -3,7 +3,7 @@
 #### 💬 About Me
 I am **Sy Le**, a software engineer with a decade of experience at LinkedIn, Salesforce, and Yahoo. I built software for CRM, marketing automation, e-commerce, and monitoring platforms. My skills include JavaScript/TypeScript and React for front-end, and Node.js / RemixJS / Express for back-end development.
 
-I am actively seeking employment opportunities, particularly in front-end development or full-stack positions with an emphasis on the frontend. While I have a preference for fully remote positions, I am also open to hybrid roles that involve commuting to the South Bay Area (Mountain View, CA). I am adaptable to various technology stacks and am willing to learn whatever is necessary to successfully complete the job. Proficient in Typescript and Node.js, I also possess a solid working understanding of Python and Java.
+Seeking front-end or full-stack roles, preferably remote or hybrid in the South Bay Area or Austin. Proficient in Typescript, Node.js, Python, and Java.
 
 #### Education
 - **MS in Artificial Intelligence** (2024 - now) at [The University of Texas at Austin](https://www.utexas.edu)
